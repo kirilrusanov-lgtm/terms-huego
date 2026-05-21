@@ -1,7 +1,9 @@
 # HueGo – Color Mix & Palettes
-### Terms of Use
+
+**Terms of Use**
 
 Last Updated: May 2026
+
 Welcome to HueGo – Color Mix & Palettes ("the App"), developed by Kiril Rusanov ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms of Use. If you do not agree, do not use the App.
 1. License Grant
 We grant you a limited, non-exclusive, non-transferable, revocable license to use the App on iOS devices that you own or control, strictly in accordance with these Terms and the Apple App Store Terms of Service.
