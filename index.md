@@ -27,7 +27,6 @@ Lighting is the biggest factor — even, diffused light gives the most accurate 
 
 **The app asks for camera permission. Why?**
 HueGo uses your camera solely to detect real-world colours for mixing. The camera feed is processed in real time to read colour values — no photos are taken, stored, or transmitted at any point. Camera access is only active while the colour picker is in use, never in the background.
----
 
 **Privacy**
 HueGo does not collect, store, or process any personal data. Purchases are handled by Apple. Saves are stored in your personal iCloud. We never see your payment details or personal information.
