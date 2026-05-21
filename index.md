@@ -11,7 +11,7 @@ For support, feedback, or questions: kiril.rusanov@gmail.com
 **FAQ**
 
 **How do I cancel my subscription?**
-Open iPhone Settings → Apple ID → Subscriptions → HueGo → Cancel Subscription. You can also manage this at appleid.apple.com.
+Open iPhone Settings → Apple ID → Subscriptions → HueGo → Cancel Subscription. You can also manage this at appleid.apple.com. Your subscription will be automatically renewed until cancelled.
 
 **How do I restore my purchases after reinstalling?**
 Open HueGo → if the paywall appears, tap "Restore purchases." Your purchase is tied to your Apple ID and restored instantly.
